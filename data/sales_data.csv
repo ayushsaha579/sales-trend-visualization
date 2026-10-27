@@ -1,0 +1,801 @@
+Order ID,Order Date,Product,Category,Region,Sales,Quantity
+ORD-00001,2025-10-16,Headphones,Technology,Central,34460.05,5
+ORD-00002,2024-03-30,Bottle,Home & Kitchen,Central,2008.23,1
+ORD-00003,2025-03-05,Table,Furniture,East,5055.64,5
+ORD-00004,2024-10-11,Desk,Furniture,East,52369.04,6
+ORD-00005,2024-02-14,Bottle,Home & Kitchen,East,21773.75,7
+ORD-00006,2025-08-14,Office Chair,Furniture,North,14119.47,1
+ORD-00007,2025-01-24,Stapler,Office Supplies,North,4904.42,6
+ORD-00008,2025-09-15,Desk,Furniture,South,16548.32,3
+ORD-00009,2025-12-02,Notebook,Office Supplies,Central,2385.26,4
+ORD-00010,2024-11-18,Table,Furniture,Central,98234.26,7
+ORD-00011,2025-07-05,Stapler,Office Supplies,North,1403.25,7
+ORD-00012,2024-04-22,Desk,Furniture,East,52356.65,7
+ORD-00013,2025-07-20,Headphones,Technology,North,85240.06,5
+ORD-00014,2024-09-26,Office Chair,Furniture,South,47905.18,5
+ORD-00015,2025-07-06,Webcam,Technology,East,66336.97,6
+ORD-00016,2024-09-02,Keyboard,Technology,South,4865.97,2
+ORD-00017,2024-05-11,Storage Box,Home & Kitchen,South,16291.53,5
+ORD-00018,2024-11-15,Lamp,Home & Kitchen,North,2998.98,8
+ORD-00019,2025-08-25,Desk,Furniture,East,11691.86,1
+ORD-00020,2024-03-13,Bookshelf,Furniture,West,25300.26,8
+ORD-00021,2024-09-05,Mug,Home & Kitchen,North,5990.99,4
+ORD-00022,2025-11-20,Headphones,Technology,Central,133677.95,7
+ORD-00023,2025-04-04,Table,Furniture,Central,15515.07,3
+ORD-00024,2024-04-10,Webcam,Technology,West,21336.52,1
+ORD-00025,2025-05-07,Table,Furniture,West,936.86,1
+ORD-00026,2024-10-19,Mug,Home & Kitchen,North,9209.33,3
+ORD-00027,2024-11-17,Headphones,Technology,North,107247.82,8
+ORD-00028,2024-07-09,Webcam,Technology,South,30099.1,2
+ORD-00029,2025-08-15,Webcam,Technology,South,19142.83,2
+ORD-00030,2025-11-16,Pen Set,Office Supplies,North,2289.18,5
+ORD-00031,2024-01-10,Bottle,Home & Kitchen,North,2573.26,2
+ORD-00032,2024-09-07,Printer Paper,Office Supplies,Central,1172.76,3
+ORD-00033,2024-01-09,Notebook,Office Supplies,East,2703.61,3
+ORD-00034,2025-09-11,Bookshelf,Furniture,North,61939.24,4
+ORD-00035,2024-04-04,Lamp,Home & Kitchen,West,990.65,1
+ORD-00036,2025-07-18,Bottle,Home & Kitchen,East,3910.01,2
+ORD-00037,2025-08-19,Table,Furniture,North,21406.62,3
+ORD-00038,2025-01-01,Desk,Furniture,South,20948.02,2
+ORD-00039,2024-08-30,Desk,Furniture,South,94466.77,7
+ORD-00040,2024-09-30,Office Chair,Furniture,West,109073.61,7
+ORD-00041,2024-12-24,Pen Set,Office Supplies,East,1986.1,4
+ORD-00042,2024-12-25,Lamp,Home & Kitchen,East,3979.69,1
+ORD-00043,2024-02-09,Webcam,Technology,North,55983.93,7
+ORD-00044,2025-01-29,Bookshelf,Furniture,South,928.92,1
+ORD-00045,2025-01-07,Bottle,Home & Kitchen,Central,18960.96,6
+ORD-00046,2024-11-12,Lamp,Home & Kitchen,West,19499.88,7
+ORD-00047,2025-11-24,Bookshelf,Furniture,Central,7491.34,7
+ORD-00048,2025-09-13,Stapler,Office Supplies,South,4711.17,8
+ORD-00049,2025-11-05,Monitor,Technology,South,18397.28,6
+ORD-00050,2024-05-30,Headphones,Technology,Central,86624.92,4
+ORD-00051,2024-07-18,Mug,Home & Kitchen,North,18572.95,7
+ORD-00052,2025-03-11,Desk,Furniture,West,41290.32,8
+ORD-00053,2025-11-14,Stapler,Office Supplies,West,8927.09,7
+ORD-00054,2025-04-05,Pen Set,Office Supplies,North,3835.14,5
+ORD-00055,2024-10-19,Bookshelf,Furniture,South,71767.15,6
+ORD-00056,2025-12-24,Office Chair,Furniture,West,84075.65,7
+ORD-00057,2025-02-02,Webcam,Technology,West,75651.56,7
+ORD-00058,2025-07-05,Table,Furniture,West,36817.91,4
+ORD-00059,2024-06-18,Storage Box,Home & Kitchen,West,385.42,1
+ORD-00060,2024-05-18,Storage Box,Home & Kitchen,West,1247.5,1
+ORD-00061,2024-10-11,Lamp,Home & Kitchen,South,7874.2,2
+ORD-00062,2025-10-27,Headphones,Technology,South,24687.6,1
+ORD-00063,2025-04-29,Webcam,Technology,North,42206.91,4
+ORD-00064,2024-06-16,Notebook,Office Supplies,South,1093.31,1
+ORD-00065,2024-03-18,Office Chair,Furniture,North,55835.19,5
+ORD-00066,2024-12-21,Lamp,Home & Kitchen,North,6834.38,2
+ORD-00067,2025-03-19,Stapler,Office Supplies,Central,3479.85,3
+ORD-00068,2025-05-10,Mug,Home & Kitchen,West,5241.78,5
+ORD-00069,2024-09-06,Mug,Home & Kitchen,East,4927.24,6
+ORD-00070,2024-12-14,Printer Paper,Office Supplies,Central,377.57,1
+ORD-00071,2024-09-03,Mug,Home & Kitchen,East,19616.61,8
+ORD-00072,2025-11-10,Stapler,Office Supplies,East,2999.92,6
+ORD-00073,2024-11-09,Pen Set,Office Supplies,South,2128.11,2
+ORD-00074,2024-07-15,Table,Furniture,North,87999.9,5
+ORD-00075,2024-07-17,Pen Set,Office Supplies,North,3957.58,6
+ORD-00076,2025-07-20,Pen Set,Office Supplies,East,2958.67,8
+ORD-00077,2024-07-07,Monitor,Technology,North,24331.72,8
+ORD-00078,2024-06-04,Bookshelf,Furniture,Central,5851.04,2
+ORD-00079,2024-08-19,Mug,Home & Kitchen,North,16266.72,8
+ORD-00080,2025-09-16,Keyboard,Technology,South,25053.71,4
+ORD-00081,2024-01-03,Mug,Home & Kitchen,West,19921.26,8
+ORD-00082,2024-03-13,Bookshelf,Furniture,South,40848.07,4
+ORD-00083,2024-03-14,Keyboard,Technology,West,66669.71,5
+ORD-00084,2025-12-06,Stapler,Office Supplies,West,786.54,5
+ORD-00085,2024-11-26,Notebook,Office Supplies,North,2450.15,2
+ORD-00086,2025-11-19,Notebook,Office Supplies,Central,3903.36,3
+ORD-00087,2025-03-22,Bottle,Home & Kitchen,East,24130.34,8
+ORD-00088,2025-02-25,Lamp,Home & Kitchen,East,8185.51,7
+ORD-00089,2024-04-28,Bottle,Home & Kitchen,West,21375.25,8
+ORD-00090,2024-02-22,Bookshelf,Furniture,Central,25175.36,3
+ORD-00091,2024-09-02,Bookshelf,Furniture,West,2493.88,1
+ORD-00092,2024-04-30,Table,Furniture,South,27877.83,5
+ORD-00093,2025-04-12,Table,Furniture,East,38363.68,4
+ORD-00094,2025-02-28,Printer Paper,Office Supplies,West,720.85,1
+ORD-00095,2024-06-01,Mug,Home & Kitchen,South,19630.19,6
+ORD-00096,2025-12-15,Table,Furniture,West,37402.48,4
+ORD-00097,2025-01-30,Table,Furniture,West,17407.55,1
+ORD-00098,2024-04-12,Bottle,Home & Kitchen,East,5088.8,3
+ORD-00099,2024-12-12,Bottle,Home & Kitchen,West,8330.67,6
+ORD-00100,2025-07-08,Webcam,Technology,North,11248.17,2
+ORD-00101,2025-03-20,Headphones,Technology,North,33281.65,8
+ORD-00102,2024-10-27,Printer Paper,Office Supplies,South,5752.9,7
+ORD-00103,2024-06-28,Webcam,Technology,West,97032.61,7
+ORD-00104,2025-10-15,Stapler,Office Supplies,Central,3420.19,5
+ORD-00105,2024-06-10,Mouse,Technology,West,130414.48,6
+ORD-00106,2024-11-05,Table,Furniture,East,70057.35,8
+ORD-00107,2024-01-23,Lamp,Home & Kitchen,Central,266.75,1
+ORD-00108,2025-05-23,Pen Set,Office Supplies,South,1984.36,6
+ORD-00109,2025-10-05,Headphones,Technology,East,103109.96,5
+ORD-00110,2024-11-30,Storage Box,Home & Kitchen,East,8991.12,4
+ORD-00111,2024-06-17,Stapler,Office Supplies,South,867.98,5
+ORD-00112,2024-08-19,Lamp,Home & Kitchen,East,3292.54,2
+ORD-00113,2025-08-21,Lamp,Home & Kitchen,East,6613.55,2
+ORD-00114,2025-09-16,Office Chair,Furniture,North,48539.62,8
+ORD-00115,2024-11-07,Bottle,Home & Kitchen,Central,3213.0,2
+ORD-00116,2025-03-05,Table,Furniture,East,22855.31,2
+ORD-00117,2024-08-10,Mug,Home & Kitchen,East,7804.74,4
+ORD-00118,2024-03-03,Lamp,Home & Kitchen,South,1646.76,4
+ORD-00119,2025-10-19,Headphones,Technology,Central,41151.61,6
+ORD-00120,2024-07-31,Desk,Furniture,South,86314.85,6
+ORD-00121,2024-05-13,Pen Set,Office Supplies,South,114.48,2
+ORD-00122,2025-08-25,Notebook,Office Supplies,North,1584.94,3
+ORD-00123,2025-05-02,Lamp,Home & Kitchen,Central,5145.25,2
+ORD-00124,2024-11-04,Bottle,Home & Kitchen,West,551.14,1
+ORD-00125,2024-03-16,Monitor,Technology,East,6016.8,3
+ORD-00126,2025-01-25,Stapler,Office Supplies,Central,7204.68,7
+ORD-00127,2024-08-08,Mug,Home & Kitchen,East,10322.73,4
+ORD-00128,2025-03-13,Printer Paper,Office Supplies,North,3540.9,6
+ORD-00129,2024-04-05,Bottle,Home & Kitchen,East,12056.36,6
+ORD-00130,2025-11-17,Mouse,Technology,North,136610.0,6
+ORD-00131,2024-10-21,Printer Paper,Office Supplies,North,1892.28,2
+ORD-00132,2024-12-24,Notebook,Office Supplies,Central,6020.24,5
+ORD-00133,2025-09-20,Webcam,Technology,East,6097.99,5
+ORD-00134,2024-01-07,Desk,Furniture,Central,94994.0,7
+ORD-00135,2024-08-08,Mug,Home & Kitchen,Central,21929.93,8
+ORD-00136,2025-09-02,Headphones,Technology,West,11905.72,3
+ORD-00137,2025-05-12,Mug,Home & Kitchen,Central,2385.13,5
+ORD-00138,2025-05-13,Notebook,Office Supplies,South,195.67,4
+ORD-00139,2024-05-20,Printer Paper,Office Supplies,Central,3237.36,6
+ORD-00140,2025-12-21,Bookshelf,Furniture,North,32069.82,2
+ORD-00141,2024-11-16,Mug,Home & Kitchen,Central,5652.89,7
+ORD-00142,2025-04-16,Notebook,Office Supplies,West,5061.63,7
+ORD-00143,2024-11-13,Pen Set,Office Supplies,South,5483.75,6
+ORD-00144,2024-12-23,Pen Set,Office Supplies,North,1138.74,4
+ORD-00145,2024-06-30,Mug,Home & Kitchen,East,27633.67,8
+ORD-00146,2025-10-04,Pen Set,Office Supplies,North,3693.6,8
+ORD-00147,2024-12-26,Monitor,Technology,North,96957.83,8
+ORD-00148,2025-09-21,Mug,Home & Kitchen,West,1193.19,1
+ORD-00149,2025-05-28,Office Chair,Furniture,Central,130200.55,8
+ORD-00150,2025-10-23,Office Chair,Furniture,East,84232.46,4
+ORD-00151,2025-01-16,Stapler,Office Supplies,East,705.21,7
+ORD-00152,2024-03-08,Notebook,Office Supplies,South,5611.3,7
+ORD-00153,2024-12-07,Webcam,Technology,South,71573.04,3
+ORD-00154,2025-09-01,Monitor,Technology,Central,100595.29,7
+ORD-00155,2024-04-05,Lamp,Home & Kitchen,West,3322.07,1
+ORD-00156,2024-07-15,Desk,Furniture,Central,46019.18,3
+ORD-00157,2024-02-08,Pen Set,Office Supplies,South,5905.91,7
+ORD-00158,2025-03-24,Mouse,Technology,West,90445.0,6
+ORD-00159,2024-08-27,Bookshelf,Furniture,West,33741.41,8
+ORD-00160,2025-04-17,Stapler,Office Supplies,East,6786.22,7
+ORD-00161,2024-02-23,Lamp,Home & Kitchen,South,770.35,2
+ORD-00162,2024-10-06,Storage Box,Home & Kitchen,North,25669.94,7
+ORD-00163,2025-02-28,Mouse,Technology,North,33873.9,6
+ORD-00164,2025-10-27,Pen Set,Office Supplies,West,2081.69,3
+ORD-00165,2025-04-04,Headphones,Technology,Central,6076.77,1
+ORD-00166,2025-03-09,Monitor,Technology,West,28178.54,4
+ORD-00167,2024-03-05,Mouse,Technology,North,14123.84,1
+ORD-00168,2025-09-21,Pen Set,Office Supplies,Central,4530.69,7
+ORD-00169,2025-07-11,Mouse,Technology,East,12253.09,8
+ORD-00170,2024-03-10,Pen Set,Office Supplies,Central,851.44,2
+ORD-00171,2024-12-12,Table,Furniture,West,139491.2,8
+ORD-00172,2024-02-07,Pen Set,Office Supplies,West,406.09,1
+ORD-00173,2025-07-10,Lamp,Home & Kitchen,East,2754.86,1
+ORD-00174,2024-10-06,Monitor,Technology,South,162185.19,7
+ORD-00175,2025-05-23,Lamp,Home & Kitchen,South,10741.71,5
+ORD-00176,2025-07-12,Printer Paper,Office Supplies,West,791.07,2
+ORD-00177,2024-06-19,Lamp,Home & Kitchen,East,27949.7,8
+ORD-00178,2025-10-16,Headphones,Technology,South,69176.33,7
+ORD-00179,2025-09-14,Bottle,Home & Kitchen,Central,4205.11,3
+ORD-00180,2024-02-03,Table,Furniture,West,83692.47,6
+ORD-00181,2024-11-17,Pen Set,Office Supplies,North,1511.78,2
+ORD-00182,2024-09-25,Stapler,Office Supplies,North,4412.46,4
+ORD-00183,2024-05-18,Mouse,Technology,East,59495.19,3
+ORD-00184,2025-11-14,Notebook,Office Supplies,South,5107.62,5
+ORD-00185,2025-01-05,Office Chair,Furniture,Central,19792.76,4
+ORD-00186,2025-01-12,Storage Box,Home & Kitchen,West,3454.92,2
+ORD-00187,2025-02-23,Keyboard,Technology,Central,86076.27,6
+ORD-00188,2025-10-17,Desk,Furniture,East,130065.42,7
+ORD-00189,2024-06-17,Bookshelf,Furniture,East,67957.84,4
+ORD-00190,2024-07-20,Pen Set,Office Supplies,Central,3917.73,5
+ORD-00191,2024-06-06,Bookshelf,Furniture,Central,1385.19,1
+ORD-00192,2024-09-28,Table,Furniture,West,11624.5,1
+ORD-00193,2024-09-07,Lamp,Home & Kitchen,South,13971.63,8
+ORD-00194,2024-12-14,Bookshelf,Furniture,East,110584.59,6
+ORD-00195,2025-06-11,Monitor,Technology,East,42330.05,4
+ORD-00196,2025-01-28,Storage Box,Home & Kitchen,South,2236.31,3
+ORD-00197,2025-05-25,Mug,Home & Kitchen,South,8272.92,5
+ORD-00198,2024-08-08,Notebook,Office Supplies,East,1017.71,1
+ORD-00199,2025-07-03,Headphones,Technology,North,24263.45,7
+ORD-00200,2025-02-14,Webcam,Technology,Central,33432.04,4
+ORD-00201,2024-10-13,Keyboard,Technology,South,21309.71,2
+ORD-00202,2024-07-22,Bottle,Home & Kitchen,South,1865.73,1
+ORD-00203,2025-09-12,Bookshelf,Furniture,East,107037.17,6
+ORD-00204,2025-06-03,Lamp,Home & Kitchen,Central,27453.23,8
+ORD-00205,2024-11-11,Webcam,Technology,South,59305.4,8
+ORD-00206,2024-02-22,Storage Box,Home & Kitchen,North,23267.28,7
+ORD-00207,2024-07-14,Mouse,Technology,Central,57371.39,6
+ORD-00208,2025-04-27,Keyboard,Technology,South,50411.91,4
+ORD-00209,2025-04-15,Printer Paper,Office Supplies,South,1629.81,5
+ORD-00210,2024-10-31,Pen Set,Office Supplies,East,10601.99,8
+ORD-00211,2024-10-21,Webcam,Technology,South,163294.2,7
+ORD-00212,2024-10-24,Monitor,Technology,South,18908.74,2
+ORD-00213,2025-07-05,Printer Paper,Office Supplies,Central,952.7,3
+ORD-00214,2024-08-19,Office Chair,Furniture,North,26333.65,2
+ORD-00215,2025-07-17,Table,Furniture,North,34485.58,8
+ORD-00216,2024-04-01,Office Chair,Furniture,West,45669.13,3
+ORD-00217,2025-05-22,Bookshelf,Furniture,East,10612.15,1
+ORD-00218,2025-04-10,Storage Box,Home & Kitchen,East,20686.44,8
+ORD-00219,2024-07-09,Monitor,Technology,West,63752.59,5
+ORD-00220,2025-03-13,Notebook,Office Supplies,South,1421.77,7
+ORD-00221,2024-01-07,Stapler,Office Supplies,Central,1689.46,4
+ORD-00222,2024-01-12,Printer Paper,Office Supplies,Central,1583.58,4
+ORD-00223,2025-12-21,Notebook,Office Supplies,West,6788.18,5
+ORD-00224,2025-09-12,Stapler,Office Supplies,Central,7981.6,8
+ORD-00225,2024-03-24,Lamp,Home & Kitchen,South,6339.64,2
+ORD-00226,2025-08-09,Desk,Furniture,West,50732.84,6
+ORD-00227,2024-04-03,Bottle,Home & Kitchen,East,15999.28,8
+ORD-00228,2024-01-23,Lamp,Home & Kitchen,North,1271.4,1
+ORD-00229,2025-07-08,Headphones,Technology,West,10233.01,8
+ORD-00230,2025-01-18,Mug,Home & Kitchen,East,13535.35,7
+ORD-00231,2024-05-01,Table,Furniture,East,14124.01,3
+ORD-00232,2025-04-19,Mug,Home & Kitchen,North,13148.78,4
+ORD-00233,2024-02-02,Bottle,Home & Kitchen,North,8529.87,4
+ORD-00234,2024-09-07,Mouse,Technology,Central,44918.88,8
+ORD-00235,2024-10-23,Bookshelf,Furniture,West,112458.84,6
+ORD-00236,2024-11-03,Notebook,Office Supplies,West,2176.82,3
+ORD-00237,2025-06-21,Stapler,Office Supplies,South,6405.86,7
+ORD-00238,2024-11-03,Table,Furniture,South,20589.99,1
+ORD-00239,2024-09-18,Bookshelf,Furniture,South,30771.96,2
+ORD-00240,2024-02-22,Stapler,Office Supplies,Central,923.57,1
+ORD-00241,2024-08-10,Storage Box,Home & Kitchen,North,4476.48,6
+ORD-00242,2025-05-05,Desk,Furniture,Central,72383.89,7
+ORD-00243,2025-10-26,Printer Paper,Office Supplies,West,3425.33,5
+ORD-00244,2024-11-23,Bookshelf,Furniture,East,74475.74,6
+ORD-00245,2025-07-20,Lamp,Home & Kitchen,Central,2806.45,3
+ORD-00246,2025-11-01,Printer Paper,Office Supplies,East,5749.82,8
+ORD-00247,2024-06-22,Table,Furniture,North,30511.62,3
+ORD-00248,2024-03-17,Headphones,Technology,South,24796.23,7
+ORD-00249,2025-06-01,Lamp,Home & Kitchen,West,1742.89,1
+ORD-00250,2024-01-17,Webcam,Technology,North,5975.28,7
+ORD-00251,2025-05-29,Storage Box,Home & Kitchen,East,4414.51,2
+ORD-00252,2024-12-28,Stapler,Office Supplies,South,1641.15,2
+ORD-00253,2024-11-03,Headphones,Technology,South,21884.18,2
+ORD-00254,2024-03-25,Mug,Home & Kitchen,North,11374.45,6
+ORD-00255,2024-08-23,Table,Furniture,Central,10856.76,5
+ORD-00256,2025-11-04,Keyboard,Technology,West,6620.39,6
+ORD-00257,2024-03-19,Pen Set,Office Supplies,West,3301.44,4
+ORD-00258,2024-05-23,Webcam,Technology,Central,10494.62,6
+ORD-00259,2025-09-01,Lamp,Home & Kitchen,Central,875.67,1
+ORD-00260,2025-01-19,Storage Box,Home & Kitchen,North,17671.98,7
+ORD-00261,2024-10-01,Table,Furniture,East,22355.8,3
+ORD-00262,2025-03-31,Printer Paper,Office Supplies,West,1121.32,2
+ORD-00263,2024-04-15,Headphones,Technology,North,74761.82,6
+ORD-00264,2024-10-25,Mug,Home & Kitchen,Central,2183.77,2
+ORD-00265,2024-06-22,Storage Box,Home & Kitchen,East,2005.52,3
+ORD-00266,2025-03-07,Stapler,Office Supplies,Central,1752.49,2
+ORD-00267,2024-07-19,Bottle,Home & Kitchen,East,6625.96,3
+ORD-00268,2025-03-26,Stapler,Office Supplies,South,2539.62,3
+ORD-00269,2025-02-11,Printer Paper,Office Supplies,West,3344.22,8
+ORD-00270,2025-01-08,Webcam,Technology,West,53094.63,4
+ORD-00271,2025-12-26,Table,Furniture,West,12287.42,5
+ORD-00272,2024-05-22,Pen Set,Office Supplies,Central,4776.65,5
+ORD-00273,2025-05-05,Mug,Home & Kitchen,North,1925.48,1
+ORD-00274,2024-04-21,Bookshelf,Furniture,West,4972.42,3
+ORD-00275,2024-12-05,Bottle,Home & Kitchen,Central,2356.67,1
+ORD-00276,2024-08-14,Lamp,Home & Kitchen,North,4287.73,7
+ORD-00277,2025-05-09,Monitor,Technology,East,142098.02,7
+ORD-00278,2024-11-15,Stapler,Office Supplies,West,723.31,4
+ORD-00279,2024-11-22,Monitor,Technology,South,21166.82,1
+ORD-00280,2024-09-06,Desk,Furniture,South,103738.26,6
+ORD-00281,2024-07-09,Mug,Home & Kitchen,North,1560.48,1
+ORD-00282,2025-12-22,Desk,Furniture,Central,86902.75,5
+ORD-00283,2024-07-10,Printer Paper,Office Supplies,East,4162.63,4
+ORD-00284,2025-09-03,Mug,Home & Kitchen,East,5733.42,2
+ORD-00285,2025-09-21,Keyboard,Technology,Central,18733.44,6
+ORD-00286,2025-02-01,Storage Box,Home & Kitchen,South,22576.03,7
+ORD-00287,2025-07-22,Table,Furniture,East,31396.59,5
+ORD-00288,2024-01-10,Storage Box,Home & Kitchen,West,7131.59,4
+ORD-00289,2025-03-01,Mug,Home & Kitchen,East,3279.32,3
+ORD-00290,2024-08-18,Pen Set,Office Supplies,Central,4916.51,8
+ORD-00291,2024-04-26,Printer Paper,Office Supplies,South,293.51,1
+ORD-00292,2024-10-31,Mouse,Technology,South,47551.33,5
+ORD-00293,2024-08-02,Stapler,Office Supplies,Central,2951.08,3
+ORD-00294,2024-12-25,Pen Set,Office Supplies,Central,4986.96,6
+ORD-00295,2025-11-26,Keyboard,Technology,South,167361.23,7
+ORD-00296,2024-09-12,Bookshelf,Furniture,East,49854.44,4
+ORD-00297,2025-10-04,Mug,Home & Kitchen,East,13873.9,8
+ORD-00298,2025-12-12,Stapler,Office Supplies,West,8854.69,8
+ORD-00299,2025-10-12,Notebook,Office Supplies,East,2360.28,7
+ORD-00300,2024-12-11,Table,Furniture,West,98656.57,6
+ORD-00301,2024-01-17,Keyboard,Technology,South,82955.9,8
+ORD-00302,2025-10-27,Pen Set,Office Supplies,South,800.09,5
+ORD-00303,2024-02-23,Lamp,Home & Kitchen,North,3302.53,4
+ORD-00304,2024-05-15,Table,Furniture,South,6775.12,1
+ORD-00305,2025-05-04,Keyboard,Technology,East,17581.8,7
+ORD-00306,2024-05-20,Storage Box,Home & Kitchen,East,1973.99,3
+ORD-00307,2024-08-06,Table,Furniture,Central,19058.92,8
+ORD-00308,2025-01-28,Stapler,Office Supplies,Central,4726.56,6
+ORD-00309,2025-09-06,Notebook,Office Supplies,North,1294.15,5
+ORD-00310,2024-09-02,Mug,Home & Kitchen,North,6243.33,2
+ORD-00311,2025-01-04,Pen Set,Office Supplies,West,3247.15,7
+ORD-00312,2024-03-15,Webcam,Technology,West,1790.36,2
+ORD-00313,2025-06-02,Stapler,Office Supplies,East,4636.91,7
+ORD-00314,2024-03-26,Notebook,Office Supplies,North,1676.12,4
+ORD-00315,2024-11-13,Storage Box,Home & Kitchen,North,2574.53,1
+ORD-00316,2024-11-12,Office Chair,Furniture,Central,15216.86,1
+ORD-00317,2025-06-13,Pen Set,Office Supplies,North,2110.6,6
+ORD-00318,2024-12-09,Lamp,Home & Kitchen,Central,4217.09,2
+ORD-00319,2025-01-03,Mouse,Technology,North,25405.56,3
+ORD-00320,2024-08-21,Headphones,Technology,North,5833.4,1
+ORD-00321,2025-07-20,Storage Box,Home & Kitchen,Central,17450.34,6
+ORD-00322,2025-01-16,Webcam,Technology,North,4437.97,1
+ORD-00323,2025-04-21,Printer Paper,Office Supplies,East,2807.68,6
+ORD-00324,2025-09-29,Table,Furniture,Central,56018.81,6
+ORD-00325,2024-09-08,Office Chair,Furniture,North,71122.96,7
+ORD-00326,2024-12-09,Mouse,Technology,North,16664.6,5
+ORD-00327,2024-05-25,Notebook,Office Supplies,East,642.92,1
+ORD-00328,2025-04-14,Webcam,Technology,North,22832.31,2
+ORD-00329,2025-03-21,Desk,Furniture,East,31433.26,5
+ORD-00330,2024-11-21,Lamp,Home & Kitchen,South,9855.39,4
+ORD-00331,2024-04-18,Table,Furniture,West,23716.79,8
+ORD-00332,2024-11-11,Lamp,Home & Kitchen,Central,5890.55,2
+ORD-00333,2024-02-11,Bookshelf,Furniture,East,15433.62,3
+ORD-00334,2024-09-23,Office Chair,Furniture,North,72847.67,7
+ORD-00335,2024-05-23,Headphones,Technology,East,18369.97,1
+ORD-00336,2025-12-03,Webcam,Technology,West,119374.53,5
+ORD-00337,2024-05-11,Monitor,Technology,West,3027.4,2
+ORD-00338,2025-05-23,Mouse,Technology,South,30086.52,7
+ORD-00339,2024-02-05,Bookshelf,Furniture,South,82534.21,8
+ORD-00340,2025-03-05,Desk,Furniture,West,14270.76,1
+ORD-00341,2024-12-18,Stapler,Office Supplies,East,1734.97,5
+ORD-00342,2024-02-29,Lamp,Home & Kitchen,North,4024.77,4
+ORD-00343,2024-08-12,Lamp,Home & Kitchen,Central,7415.79,3
+ORD-00344,2024-01-29,Pen Set,Office Supplies,South,4662.6,4
+ORD-00345,2025-05-17,Headphones,Technology,Central,5578.14,1
+ORD-00346,2024-07-25,Bookshelf,Furniture,Central,46011.77,3
+ORD-00347,2025-12-22,Office Chair,Furniture,North,51601.89,6
+ORD-00348,2024-12-10,Printer Paper,Office Supplies,West,1935.56,3
+ORD-00349,2025-10-26,Pen Set,Office Supplies,East,1723.33,6
+ORD-00350,2024-05-10,Office Chair,Furniture,East,98568.4,7
+ORD-00351,2025-09-18,Office Chair,Furniture,South,109162.97,8
+ORD-00352,2025-10-13,Monitor,Technology,North,7966.1,8
+ORD-00353,2024-01-02,Mouse,Technology,West,130218.47,8
+ORD-00354,2024-12-25,Bottle,Home & Kitchen,West,8184.3,8
+ORD-00355,2024-03-16,Monitor,Technology,West,7420.54,1
+ORD-00356,2024-06-13,Webcam,Technology,West,15664.29,2
+ORD-00357,2025-10-31,Table,Furniture,Central,23228.48,3
+ORD-00358,2025-07-07,Printer Paper,Office Supplies,South,3516.26,5
+ORD-00359,2024-02-25,Notebook,Office Supplies,North,5355.74,7
+ORD-00360,2024-01-27,Desk,Furniture,West,44990.29,5
+ORD-00361,2025-05-15,Notebook,Office Supplies,East,3279.54,7
+ORD-00362,2025-03-26,Lamp,Home & Kitchen,North,9872.0,4
+ORD-00363,2024-03-28,Stapler,Office Supplies,Central,3957.4,4
+ORD-00364,2025-12-04,Storage Box,Home & Kitchen,Central,2058.65,8
+ORD-00365,2025-06-13,Office Chair,Furniture,South,141861.54,8
+ORD-00366,2024-02-13,Bottle,Home & Kitchen,East,14862.13,7
+ORD-00367,2024-03-09,Mouse,Technology,North,86897.72,7
+ORD-00368,2025-12-18,Bottle,Home & Kitchen,North,27922.33,7
+ORD-00369,2024-04-18,Monitor,Technology,West,116321.53,6
+ORD-00370,2024-02-08,Bookshelf,Furniture,East,79156.04,7
+ORD-00371,2025-12-08,Office Chair,Furniture,East,153298.39,8
+ORD-00372,2024-11-14,Stapler,Office Supplies,East,917.0,2
+ORD-00373,2024-10-02,Bottle,Home & Kitchen,Central,8246.62,4
+ORD-00374,2025-01-17,Webcam,Technology,Central,6012.61,3
+ORD-00375,2025-08-05,Keyboard,Technology,North,77315.46,4
+ORD-00376,2025-01-04,Bookshelf,Furniture,North,57225.97,6
+ORD-00377,2024-09-04,Stapler,Office Supplies,South,5766.25,8
+ORD-00378,2024-09-21,Monitor,Technology,South,8872.51,1
+ORD-00379,2025-10-24,Desk,Furniture,North,57094.94,5
+ORD-00380,2025-04-30,Desk,Furniture,East,11302.68,1
+ORD-00381,2025-03-09,Lamp,Home & Kitchen,West,23221.25,8
+ORD-00382,2025-08-21,Headphones,Technology,West,75691.09,6
+ORD-00383,2024-03-06,Printer Paper,Office Supplies,East,5189.21,6
+ORD-00384,2024-07-11,Desk,Furniture,South,14620.42,1
+ORD-00385,2024-01-27,Lamp,Home & Kitchen,Central,10411.4,5
+ORD-00386,2024-07-13,Pen Set,Office Supplies,Central,5027.88,8
+ORD-00387,2024-07-04,Notebook,Office Supplies,South,7821.43,8
+ORD-00388,2025-11-27,Notebook,Office Supplies,East,1870.15,4
+ORD-00389,2025-01-15,Printer Paper,Office Supplies,Central,8360.13,8
+ORD-00390,2024-03-13,Storage Box,Home & Kitchen,South,567.62,2
+ORD-00391,2024-05-20,Bookshelf,Furniture,South,113173.56,7
+ORD-00392,2024-03-23,Lamp,Home & Kitchen,South,2435.7,3
+ORD-00393,2025-08-13,Table,Furniture,West,16632.93,2
+ORD-00394,2025-01-27,Headphones,Technology,Central,64944.42,4
+ORD-00395,2024-07-14,Headphones,Technology,Central,21768.34,4
+ORD-00396,2025-08-25,Pen Set,Office Supplies,Central,754.72,2
+ORD-00397,2025-06-20,Stapler,Office Supplies,West,1370.19,3
+ORD-00398,2024-01-20,Desk,Furniture,North,3824.15,3
+ORD-00399,2025-01-19,Notebook,Office Supplies,West,62.9,1
+ORD-00400,2025-03-30,Bottle,Home & Kitchen,East,11215.29,5
+ORD-00401,2025-03-06,Webcam,Technology,Central,69639.36,5
+ORD-00402,2025-09-24,Monitor,Technology,Central,34787.73,2
+ORD-00403,2024-07-25,Stapler,Office Supplies,West,5480.07,5
+ORD-00404,2024-12-04,Office Chair,Furniture,South,19361.03,1
+ORD-00405,2024-04-02,Headphones,Technology,North,71944.04,5
+ORD-00406,2024-04-12,Office Chair,Furniture,North,62363.54,5
+ORD-00407,2024-01-10,Desk,Furniture,North,50309.51,6
+ORD-00408,2025-01-16,Pen Set,Office Supplies,West,710.65,2
+ORD-00409,2025-03-07,Office Chair,Furniture,West,5708.56,3
+ORD-00410,2025-08-27,Mug,Home & Kitchen,South,9098.27,3
+ORD-00411,2025-05-09,Bottle,Home & Kitchen,Central,994.17,7
+ORD-00412,2025-08-13,Bookshelf,Furniture,West,26651.5,2
+ORD-00413,2024-06-01,Headphones,Technology,West,34257.44,3
+ORD-00414,2024-11-24,Bookshelf,Furniture,South,27778.86,5
+ORD-00415,2024-03-21,Mug,Home & Kitchen,North,27474.24,8
+ORD-00416,2024-04-15,Mug,Home & Kitchen,Central,2154.29,1
+ORD-00417,2025-10-14,Pen Set,Office Supplies,West,971.94,8
+ORD-00418,2024-12-05,Lamp,Home & Kitchen,East,11900.2,8
+ORD-00419,2025-07-14,Notebook,Office Supplies,West,993.33,1
+ORD-00420,2024-04-19,Pen Set,Office Supplies,South,1160.34,4
+ORD-00421,2024-12-12,Mouse,Technology,West,24107.17,1
+ORD-00422,2025-04-13,Table,Furniture,West,1730.57,1
+ORD-00423,2025-06-04,Desk,Furniture,West,36430.87,3
+ORD-00424,2025-03-04,Bookshelf,Furniture,West,122467.85,7
+ORD-00425,2025-09-08,Printer Paper,Office Supplies,South,1508.29,4
+ORD-00426,2025-12-28,Bookshelf,Furniture,West,24815.38,2
+ORD-00427,2025-11-21,Stapler,Office Supplies,South,246.12,1
+ORD-00428,2024-09-30,Bookshelf,Furniture,Central,9803.81,5
+ORD-00429,2024-02-03,Stapler,Office Supplies,Central,1383.57,2
+ORD-00430,2025-02-02,Bookshelf,Furniture,East,7527.18,1
+ORD-00431,2025-07-19,Headphones,Technology,South,24730.33,5
+ORD-00432,2025-10-10,Pen Set,Office Supplies,South,3926.49,4
+ORD-00433,2025-06-10,Mouse,Technology,East,9770.07,1
+ORD-00434,2024-01-06,Stapler,Office Supplies,Central,2197.14,3
+ORD-00435,2025-11-08,Stapler,Office Supplies,Central,4598.16,6
+ORD-00436,2024-03-10,Table,Furniture,East,32777.41,7
+ORD-00437,2024-10-27,Table,Furniture,Central,8043.74,1
+ORD-00438,2024-09-06,Monitor,Technology,East,141406.68,7
+ORD-00439,2024-01-26,Stapler,Office Supplies,North,2106.51,8
+ORD-00440,2024-06-20,Headphones,Technology,North,59780.69,4
+ORD-00441,2024-07-29,Bottle,Home & Kitchen,South,1047.13,3
+ORD-00442,2024-09-14,Webcam,Technology,East,80380.45,4
+ORD-00443,2024-01-18,Bottle,Home & Kitchen,North,2091.07,1
+ORD-00444,2025-01-01,Monitor,Technology,North,67902.55,5
+ORD-00445,2025-04-30,Desk,Furniture,South,43574.32,3
+ORD-00446,2024-11-01,Notebook,Office Supplies,North,2591.7,3
+ORD-00447,2024-11-08,Bookshelf,Furniture,South,56382.42,4
+ORD-00448,2025-09-23,Pen Set,Office Supplies,Central,2057.22,2
+ORD-00449,2025-04-17,Monitor,Technology,East,11929.43,2
+ORD-00450,2024-05-11,Office Chair,Furniture,Central,81460.14,5
+ORD-00451,2025-11-06,Pen Set,Office Supplies,South,1668.2,6
+ORD-00452,2025-12-30,Lamp,Home & Kitchen,East,11849.69,6
+ORD-00453,2024-11-08,Bottle,Home & Kitchen,Central,10301.08,3
+ORD-00454,2024-07-20,Notebook,Office Supplies,Central,1545.37,2
+ORD-00455,2025-02-18,Office Chair,Furniture,East,89891.26,5
+ORD-00456,2025-02-05,Bookshelf,Furniture,South,28884.14,3
+ORD-00457,2025-09-20,Desk,Furniture,South,84677.67,8
+ORD-00458,2025-05-10,Notebook,Office Supplies,South,1386.62,4
+ORD-00459,2025-06-14,Stapler,Office Supplies,North,690.32,8
+ORD-00460,2025-12-21,Printer Paper,Office Supplies,North,2554.84,3
+ORD-00461,2025-06-13,Stapler,Office Supplies,West,4186.22,4
+ORD-00462,2025-09-10,Webcam,Technology,South,30041.5,3
+ORD-00463,2024-07-10,Bookshelf,Furniture,West,15979.79,2
+ORD-00464,2025-05-05,Desk,Furniture,Central,11464.38,7
+ORD-00465,2024-02-10,Office Chair,Furniture,Central,11935.93,3
+ORD-00466,2025-10-14,Monitor,Technology,South,12354.83,2
+ORD-00467,2025-02-24,Desk,Furniture,North,63118.04,5
+ORD-00468,2024-08-23,Mug,Home & Kitchen,West,5444.47,3
+ORD-00469,2024-06-02,Keyboard,Technology,North,159155.33,8
+ORD-00470,2024-04-05,Storage Box,Home & Kitchen,East,1874.95,1
+ORD-00471,2024-02-14,Storage Box,Home & Kitchen,Central,20965.92,8
+ORD-00472,2024-04-10,Storage Box,Home & Kitchen,Central,5315.53,5
+ORD-00473,2025-02-22,Pen Set,Office Supplies,North,710.47,1
+ORD-00474,2025-01-19,Bookshelf,Furniture,Central,24827.0,7
+ORD-00475,2025-03-09,Printer Paper,Office Supplies,East,6644.36,7
+ORD-00476,2025-07-26,Lamp,Home & Kitchen,North,2847.16,5
+ORD-00477,2024-08-23,Storage Box,Home & Kitchen,North,3943.92,2
+ORD-00478,2024-06-13,Bottle,Home & Kitchen,East,799.36,2
+ORD-00479,2024-08-15,Notebook,Office Supplies,East,504.75,1
+ORD-00480,2025-12-29,Keyboard,Technology,East,94343.38,8
+ORD-00481,2024-07-18,Webcam,Technology,South,55060.26,4
+ORD-00482,2024-03-29,Stapler,Office Supplies,North,1634.16,6
+ORD-00483,2024-04-02,Printer Paper,Office Supplies,West,4460.29,6
+ORD-00484,2025-08-11,Monitor,Technology,North,27938.04,3
+ORD-00485,2025-06-09,Printer Paper,Office Supplies,West,7465.3,8
+ORD-00486,2025-11-28,Bottle,Home & Kitchen,South,32853.78,8
+ORD-00487,2024-11-19,Lamp,Home & Kitchen,East,1718.51,1
+ORD-00488,2024-03-18,Table,Furniture,South,97156.85,6
+ORD-00489,2025-05-25,Desk,Furniture,Central,17743.66,4
+ORD-00490,2024-12-30,Office Chair,Furniture,Central,29397.07,2
+ORD-00491,2024-02-13,Lamp,Home & Kitchen,West,18322.88,6
+ORD-00492,2024-07-06,Stapler,Office Supplies,Central,2599.41,4
+ORD-00493,2024-02-03,Stapler,Office Supplies,North,1923.35,3
+ORD-00494,2024-01-13,Table,Furniture,South,22757.01,2
+ORD-00495,2024-10-02,Lamp,Home & Kitchen,East,18814.86,6
+ORD-00496,2025-02-14,Stapler,Office Supplies,East,2507.32,3
+ORD-00497,2024-08-29,Mug,Home & Kitchen,South,11357.09,4
+ORD-00498,2025-03-07,Storage Box,Home & Kitchen,West,12183.82,6
+ORD-00499,2024-04-11,Office Chair,Furniture,East,36195.3,4
+ORD-00500,2024-09-23,Printer Paper,Office Supplies,Central,2236.32,5
+ORD-00501,2024-07-22,Bookshelf,Furniture,North,57771.61,6
+ORD-00502,2025-01-25,Stapler,Office Supplies,Central,3351.41,3
+ORD-00503,2025-08-08,Bottle,Home & Kitchen,East,2181.22,2
+ORD-00504,2025-09-11,Lamp,Home & Kitchen,West,14969.45,8
+ORD-00505,2025-02-27,Desk,Furniture,North,4912.12,1
+ORD-00506,2024-08-03,Table,Furniture,West,33838.34,2
+ORD-00507,2025-06-20,Headphones,Technology,South,69136.93,5
+ORD-00508,2024-09-10,Stapler,Office Supplies,East,219.43,3
+ORD-00509,2025-05-02,Lamp,Home & Kitchen,West,16870.6,8
+ORD-00510,2025-10-08,Lamp,Home & Kitchen,West,8119.0,6
+ORD-00511,2024-09-23,Bookshelf,Furniture,West,14842.99,1
+ORD-00512,2025-07-01,Mouse,Technology,North,56093.32,8
+ORD-00513,2025-07-15,Pen Set,Office Supplies,West,2309.16,7
+ORD-00514,2025-01-22,Bookshelf,Furniture,East,9993.01,2
+ORD-00515,2024-10-18,Stapler,Office Supplies,Central,1774.39,4
+ORD-00516,2025-04-08,Stapler,Office Supplies,North,4659.48,4
+ORD-00517,2024-10-15,Pen Set,Office Supplies,East,2027.65,8
+ORD-00518,2025-03-06,Stapler,Office Supplies,South,2538.53,6
+ORD-00519,2024-02-27,Stapler,Office Supplies,West,2158.02,2
+ORD-00520,2024-01-13,Keyboard,Technology,West,119729.55,7
+ORD-00521,2024-04-06,Table,Furniture,North,43659.49,7
+ORD-00522,2025-07-16,Monitor,Technology,South,114114.63,8
+ORD-00523,2024-04-25,Table,Furniture,South,86904.45,6
+ORD-00524,2024-01-10,Webcam,Technology,West,122655.2,8
+ORD-00525,2024-04-03,Notebook,Office Supplies,West,662.17,1
+ORD-00526,2024-08-26,Printer Paper,Office Supplies,East,3825.7,8
+ORD-00527,2024-02-10,Mug,Home & Kitchen,East,9741.55,5
+ORD-00528,2025-04-24,Pen Set,Office Supplies,West,1981.05,2
+ORD-00529,2024-01-01,Storage Box,Home & Kitchen,North,1190.36,1
+ORD-00530,2025-11-05,Storage Box,Home & Kitchen,East,14097.09,8
+ORD-00531,2024-04-23,Webcam,Technology,North,3073.67,2
+ORD-00532,2025-05-12,Office Chair,Furniture,Central,15200.72,1
+ORD-00533,2024-09-19,Monitor,Technology,West,54269.63,4
+ORD-00534,2024-03-22,Bottle,Home & Kitchen,North,8129.0,6
+ORD-00535,2025-09-23,Notebook,Office Supplies,North,580.89,2
+ORD-00536,2024-08-24,Storage Box,Home & Kitchen,Central,2833.01,4
+ORD-00537,2025-03-01,Webcam,Technology,South,90204.85,6
+ORD-00538,2025-07-17,Lamp,Home & Kitchen,Central,9505.35,3
+ORD-00539,2024-11-28,Stapler,Office Supplies,West,2636.91,7
+ORD-00540,2025-07-17,Printer Paper,Office Supplies,Central,7060.19,8
+ORD-00541,2024-01-17,Bookshelf,Furniture,East,4694.26,1
+ORD-00542,2025-07-20,Office Chair,Furniture,South,3569.43,1
+ORD-00543,2024-08-26,Printer Paper,Office Supplies,East,584.45,2
+ORD-00544,2025-05-09,Table,Furniture,North,12073.45,2
+ORD-00545,2024-02-27,Printer Paper,Office Supplies,Central,7342.67,7
+ORD-00546,2024-01-12,Bottle,Home & Kitchen,South,6056.14,5
+ORD-00547,2024-06-05,Mouse,Technology,West,133686.24,8
+ORD-00548,2024-05-31,Bookshelf,Furniture,West,27289.77,2
+ORD-00549,2025-05-28,Storage Box,Home & Kitchen,Central,6127.57,3
+ORD-00550,2025-09-22,Desk,Furniture,North,16508.25,2
+ORD-00551,2025-11-18,Mug,Home & Kitchen,East,1290.71,6
+ORD-00552,2024-06-22,Stapler,Office Supplies,South,932.54,3
+ORD-00553,2024-03-28,Headphones,Technology,North,83629.34,4
+ORD-00554,2024-12-17,Monitor,Technology,Central,100851.98,8
+ORD-00555,2025-06-19,Stapler,Office Supplies,Central,1430.59,3
+ORD-00556,2024-02-14,Pen Set,Office Supplies,North,756.84,1
+ORD-00557,2024-03-09,Lamp,Home & Kitchen,South,13847.99,6
+ORD-00558,2025-01-24,Monitor,Technology,West,153191.49,8
+ORD-00559,2025-07-28,Headphones,Technology,North,81346.32,4
+ORD-00560,2024-12-21,Printer Paper,Office Supplies,East,3666.57,5
+ORD-00561,2025-01-31,Webcam,Technology,West,27137.35,5
+ORD-00562,2025-06-17,Table,Furniture,West,32770.21,4
+ORD-00563,2025-07-09,Desk,Furniture,Central,37791.7,3
+ORD-00564,2024-05-18,Storage Box,Home & Kitchen,East,1507.55,3
+ORD-00565,2024-05-29,Monitor,Technology,East,148187.19,7
+ORD-00566,2024-06-04,Office Chair,Furniture,Central,41813.56,3
+ORD-00567,2025-09-19,Desk,Furniture,Central,28173.48,4
+ORD-00568,2025-09-11,Lamp,Home & Kitchen,North,2271.25,3
+ORD-00569,2025-02-22,Monitor,Technology,South,37538.62,7
+ORD-00570,2025-03-25,Lamp,Home & Kitchen,West,17335.69,8
+ORD-00571,2024-11-16,Bottle,Home & Kitchen,Central,8226.59,2
+ORD-00572,2025-07-04,Bottle,Home & Kitchen,West,7630.07,7
+ORD-00573,2024-11-07,Stapler,Office Supplies,South,365.59,3
+ORD-00574,2025-04-19,Bottle,Home & Kitchen,West,3915.57,2
+ORD-00575,2025-02-27,Stapler,Office Supplies,West,866.66,1
+ORD-00576,2024-04-02,Printer Paper,Office Supplies,East,517.29,3
+ORD-00577,2024-03-28,Storage Box,Home & Kitchen,South,8677.6,7
+ORD-00578,2024-06-15,Desk,Furniture,South,6192.76,1
+ORD-00579,2024-04-30,Desk,Furniture,Central,5228.2,1
+ORD-00580,2024-01-06,Storage Box,Home & Kitchen,Central,1479.91,4
+ORD-00581,2024-01-07,Bookshelf,Furniture,North,13740.72,4
+ORD-00582,2025-11-14,Printer Paper,Office Supplies,Central,582.37,2
+ORD-00583,2025-11-07,Table,Furniture,West,17646.61,6
+ORD-00584,2024-03-10,Bottle,Home & Kitchen,West,6096.54,5
+ORD-00585,2025-06-21,Desk,Furniture,West,13378.36,1
+ORD-00586,2025-12-06,Stapler,Office Supplies,Central,5401.78,6
+ORD-00587,2025-07-30,Mug,Home & Kitchen,South,8701.28,8
+ORD-00588,2024-01-02,Headphones,Technology,West,111878.88,8
+ORD-00589,2025-02-27,Monitor,Technology,East,75557.35,6
+ORD-00590,2024-09-17,Monitor,Technology,East,57215.79,5
+ORD-00591,2025-02-09,Keyboard,Technology,North,30692.07,4
+ORD-00592,2025-10-23,Table,Furniture,West,57185.86,3
+ORD-00593,2024-02-27,Printer Paper,Office Supplies,East,967.46,1
+ORD-00594,2024-03-08,Bookshelf,Furniture,Central,7316.62,1
+ORD-00595,2025-02-02,Office Chair,Furniture,West,31389.7,5
+ORD-00596,2024-08-31,Stapler,Office Supplies,South,850.94,5
+ORD-00597,2024-04-04,Bottle,Home & Kitchen,Central,13950.44,8
+ORD-00598,2024-11-13,Pen Set,Office Supplies,North,1946.98,2
+ORD-00599,2025-04-15,Bottle,Home & Kitchen,East,3064.38,1
+ORD-00600,2025-04-23,Headphones,Technology,South,5405.39,5
+ORD-00601,2024-07-16,Printer Paper,Office Supplies,North,2137.67,6
+ORD-00602,2024-01-16,Keyboard,Technology,Central,74138.55,6
+ORD-00603,2024-09-07,Office Chair,Furniture,West,33462.18,5
+ORD-00604,2025-11-22,Headphones,Technology,Central,14465.88,7
+ORD-00605,2025-10-06,Lamp,Home & Kitchen,North,16824.55,5
+ORD-00606,2025-04-21,Office Chair,Furniture,West,49661.58,8
+ORD-00607,2024-08-25,Desk,Furniture,East,38022.58,5
+ORD-00608,2025-04-09,Bottle,Home & Kitchen,East,1361.45,2
+ORD-00609,2025-09-10,Office Chair,Furniture,East,101671.91,7
+ORD-00610,2025-06-29,Mug,Home & Kitchen,North,12180.52,7
+ORD-00611,2024-12-14,Table,Furniture,North,55768.5,7
+ORD-00612,2025-12-29,Bottle,Home & Kitchen,West,10830.71,8
+ORD-00613,2024-03-12,Webcam,Technology,South,53245.75,7
+ORD-00614,2025-08-17,Keyboard,Technology,South,30880.96,3
+ORD-00615,2025-11-28,Printer Paper,Office Supplies,North,5148.56,5
+ORD-00616,2025-08-19,Webcam,Technology,North,131175.98,7
+ORD-00617,2024-01-01,Notebook,Office Supplies,East,4272.89,5
+ORD-00618,2025-12-29,Mug,Home & Kitchen,Central,4731.61,7
+ORD-00619,2025-01-28,Stapler,Office Supplies,North,556.91,3
+ORD-00620,2024-05-27,Mug,Home & Kitchen,Central,4951.49,3
+ORD-00621,2025-03-11,Table,Furniture,Central,60170.48,7
+ORD-00622,2024-01-08,Storage Box,Home & Kitchen,Central,17129.97,5
+ORD-00623,2025-05-09,Notebook,Office Supplies,East,7096.12,8
+ORD-00624,2025-04-21,Webcam,Technology,Central,11695.9,2
+ORD-00625,2025-08-16,Notebook,Office Supplies,Central,3400.08,6
+ORD-00626,2024-12-05,Lamp,Home & Kitchen,Central,15623.47,5
+ORD-00627,2024-09-23,Mouse,Technology,North,38577.61,3
+ORD-00628,2024-10-20,Bottle,Home & Kitchen,East,1949.24,3
+ORD-00629,2024-10-08,Notebook,Office Supplies,East,2117.4,2
+ORD-00630,2024-06-28,Pen Set,Office Supplies,South,627.08,8
+ORD-00631,2025-09-01,Table,Furniture,South,34782.31,7
+ORD-00632,2025-08-14,Notebook,Office Supplies,East,1172.08,5
+ORD-00633,2025-05-02,Table,Furniture,West,23674.43,7
+ORD-00634,2025-01-26,Notebook,Office Supplies,East,2298.35,2
+ORD-00635,2024-12-09,Printer Paper,Office Supplies,South,1356.73,2
+ORD-00636,2025-11-19,Bookshelf,Furniture,West,3826.33,3
+ORD-00637,2024-04-10,Mouse,Technology,North,31773.06,6
+ORD-00638,2024-02-28,Office Chair,Furniture,Central,22480.25,2
+ORD-00639,2024-07-08,Keyboard,Technology,East,34518.84,5
+ORD-00640,2025-03-13,Printer Paper,Office Supplies,North,337.11,3
+ORD-00641,2024-09-21,Pen Set,Office Supplies,West,2182.21,8
+ORD-00642,2024-04-21,Table,Furniture,North,10867.48,4
+ORD-00643,2024-03-15,Webcam,Technology,North,86164.38,5
+ORD-00644,2024-02-08,Lamp,Home & Kitchen,West,5556.91,3
+ORD-00645,2025-05-04,Mug,Home & Kitchen,West,5762.24,2
+ORD-00646,2024-05-04,Printer Paper,Office Supplies,Central,5761.18,5
+ORD-00647,2024-12-14,Mouse,Technology,South,85330.29,5
+ORD-00648,2024-11-02,Bottle,Home & Kitchen,North,5268.79,6
+ORD-00649,2024-07-16,Webcam,Technology,Central,44278.31,4
+ORD-00650,2025-04-05,Headphones,Technology,Central,10797.39,6
+ORD-00651,2025-04-14,Desk,Furniture,Central,6642.39,2
+ORD-00652,2024-02-16,Desk,Furniture,West,1754.28,1
+ORD-00653,2025-09-17,Office Chair,Furniture,South,22148.23,2
+ORD-00654,2025-03-12,Stapler,Office Supplies,South,4039.36,6
+ORD-00655,2024-02-16,Bookshelf,Furniture,Central,6630.3,2
+ORD-00656,2024-06-17,Storage Box,Home & Kitchen,South,1378.85,1
+ORD-00657,2024-01-17,Bottle,Home & Kitchen,East,2118.68,1
+ORD-00658,2025-03-02,Storage Box,Home & Kitchen,South,3653.85,4
+ORD-00659,2025-09-17,Webcam,Technology,East,47844.16,3
+ORD-00660,2024-12-22,Bottle,Home & Kitchen,Central,10404.44,4
+ORD-00661,2025-06-03,Table,Furniture,West,16850.38,4
+ORD-00662,2025-05-24,Desk,Furniture,Central,7127.7,1
+ORD-00663,2025-04-09,Headphones,Technology,North,20392.03,1
+ORD-00664,2024-03-13,Table,Furniture,North,82051.1,6
+ORD-00665,2024-11-29,Office Chair,Furniture,West,74458.26,4
+ORD-00666,2025-08-22,Bottle,Home & Kitchen,South,9918.46,7
+ORD-00667,2025-04-13,Bookshelf,Furniture,South,15376.61,5
+ORD-00668,2024-04-23,Mug,Home & Kitchen,Central,15066.54,7
+ORD-00669,2024-06-23,Office Chair,Furniture,West,64858.84,7
+ORD-00670,2024-10-12,Mouse,Technology,South,27864.96,4
+ORD-00671,2025-08-10,Mouse,Technology,Central,1457.26,1
+ORD-00672,2025-02-07,Bottle,Home & Kitchen,West,19653.95,8
+ORD-00673,2024-08-11,Bookshelf,Furniture,South,89910.37,5
+ORD-00674,2025-12-21,Bottle,Home & Kitchen,East,6880.02,8
+ORD-00675,2025-10-03,Bottle,Home & Kitchen,East,2615.84,2
+ORD-00676,2025-12-15,Office Chair,Furniture,North,13007.94,6
+ORD-00677,2024-04-23,Lamp,Home & Kitchen,North,15999.1,8
+ORD-00678,2025-07-28,Desk,Furniture,Central,17051.02,6
+ORD-00679,2025-12-20,Desk,Furniture,North,38740.48,6
+ORD-00680,2025-01-16,Stapler,Office Supplies,Central,4683.12,8
+ORD-00681,2024-10-26,Lamp,Home & Kitchen,South,3370.84,2
+ORD-00682,2024-10-22,Headphones,Technology,Central,23028.32,3
+ORD-00683,2025-10-04,Monitor,Technology,West,176341.89,7
+ORD-00684,2025-10-22,Monitor,Technology,East,9190.4,4
+ORD-00685,2025-02-25,Printer Paper,Office Supplies,East,8132.91,8
+ORD-00686,2025-08-03,Bookshelf,Furniture,North,14333.91,3
+ORD-00687,2024-05-31,Printer Paper,Office Supplies,South,1812.13,8
+ORD-00688,2024-06-28,Desk,Furniture,East,71574.08,4
+ORD-00689,2024-07-07,Office Chair,Furniture,Central,20579.08,6
+ORD-00690,2024-11-04,Headphones,Technology,South,169535.47,7
+ORD-00691,2024-01-05,Printer Paper,Office Supplies,South,7318.62,8
+ORD-00692,2025-08-01,Lamp,Home & Kitchen,East,3946.53,2
+ORD-00693,2024-01-26,Storage Box,Home & Kitchen,Central,6108.07,8
+ORD-00694,2024-08-15,Pen Set,Office Supplies,Central,825.39,1
+ORD-00695,2025-02-07,Table,Furniture,West,57885.63,6
+ORD-00696,2024-05-31,Lamp,Home & Kitchen,Central,23965.06,7
+ORD-00697,2024-03-30,Table,Furniture,West,40849.49,7
+ORD-00698,2025-02-28,Office Chair,Furniture,North,27047.65,3
+ORD-00699,2025-08-27,Bottle,Home & Kitchen,Central,1989.77,1
+ORD-00700,2024-05-20,Desk,Furniture,Central,65023.1,7
+ORD-00701,2024-11-07,Mug,Home & Kitchen,West,15814.31,4
+ORD-00702,2024-05-07,Stapler,Office Supplies,East,971.73,3
+ORD-00703,2025-05-19,Webcam,Technology,West,78208.84,6
+ORD-00704,2025-12-11,Monitor,Technology,South,22053.01,1
+ORD-00705,2024-12-31,Office Chair,Furniture,East,69500.97,5
+ORD-00706,2025-06-26,Webcam,Technology,Central,68007.47,4
+ORD-00707,2024-11-26,Printer Paper,Office Supplies,South,891.88,5
+ORD-00708,2024-01-14,Bookshelf,Furniture,South,47670.64,6
+ORD-00709,2024-06-07,Desk,Furniture,North,33128.27,2
+ORD-00710,2025-05-06,Printer Paper,Office Supplies,East,7113.57,6
+ORD-00711,2024-06-25,Notebook,Office Supplies,South,410.27,2
+ORD-00712,2024-08-02,Office Chair,Furniture,West,100148.36,7
+ORD-00713,2024-02-13,Office Chair,Furniture,East,9680.49,1
+ORD-00714,2024-02-14,Monitor,Technology,South,16747.38,1
+ORD-00715,2024-07-08,Notebook,Office Supplies,East,723.51,2
+ORD-00716,2024-06-13,Office Chair,Furniture,East,27902.95,2
+ORD-00717,2024-06-24,Headphones,Technology,South,81192.85,4
+ORD-00718,2025-03-26,Keyboard,Technology,East,129599.06,6
+ORD-00719,2024-05-06,Bottle,Home & Kitchen,North,7665.79,3
+ORD-00720,2024-12-01,Bottle,Home & Kitchen,West,28241.01,7
+ORD-00721,2024-08-19,Lamp,Home & Kitchen,East,12021.11,7
+ORD-00722,2024-07-02,Mouse,Technology,West,18164.63,2
+ORD-00723,2025-02-14,Keyboard,Technology,West,16766.79,2
+ORD-00724,2024-05-05,Table,Furniture,West,104805.95,8
+ORD-00725,2024-12-30,Mug,Home & Kitchen,West,4865.81,8
+ORD-00726,2025-05-24,Desk,Furniture,South,1803.78,1
+ORD-00727,2025-01-26,Pen Set,Office Supplies,West,643.8,5
+ORD-00728,2025-04-22,Bookshelf,Furniture,Central,42995.81,8
+ORD-00729,2024-01-19,Mouse,Technology,North,17619.36,2
+ORD-00730,2024-06-30,Pen Set,Office Supplies,Central,3930.67,8
+ORD-00731,2025-11-22,Mug,Home & Kitchen,Central,9397.8,8
+ORD-00732,2025-01-21,Printer Paper,Office Supplies,Central,1132.26,6
+ORD-00733,2024-01-28,Stapler,Office Supplies,South,1035.68,2
+ORD-00734,2024-09-10,Bookshelf,Furniture,North,4040.11,2
+ORD-00735,2025-07-05,Notebook,Office Supplies,North,5096.97,8
+ORD-00736,2025-12-13,Bottle,Home & Kitchen,North,20166.04,6
+ORD-00737,2025-12-08,Bookshelf,Furniture,East,131969.85,8
+ORD-00738,2025-03-22,Table,Furniture,Central,20125.52,2
+ORD-00739,2025-02-15,Office Chair,Furniture,West,11149.08,2
+ORD-00740,2024-08-02,Notebook,Office Supplies,West,4048.05,5
+ORD-00741,2025-02-15,Stapler,Office Supplies,West,1916.46,3
+ORD-00742,2024-08-06,Lamp,Home & Kitchen,West,5475.42,7
+ORD-00743,2024-05-31,Desk,Furniture,South,39577.25,5
+ORD-00744,2025-02-26,Printer Paper,Office Supplies,South,1532.41,3
+ORD-00745,2024-01-29,Bookshelf,Furniture,South,142808.9,8
+ORD-00746,2024-06-12,Pen Set,Office Supplies,North,804.06,1
+ORD-00747,2025-05-12,Headphones,Technology,East,14635.12,2
+ORD-00748,2025-11-18,Mouse,Technology,Central,20005.53,3
+ORD-00749,2025-06-21,Stapler,Office Supplies,Central,1951.51,2
+ORD-00750,2025-02-03,Table,Furniture,East,15580.55,4
+ORD-00751,2025-08-26,Mouse,Technology,South,93430.92,6
+ORD-00752,2024-10-11,Bookshelf,Furniture,Central,141084.08,8
+ORD-00753,2024-02-05,Keyboard,Technology,North,62141.89,5
+ORD-00754,2025-07-01,Table,Furniture,East,121301.53,7
+ORD-00755,2024-04-02,Bookshelf,Furniture,West,14559.54,4
+ORD-00756,2024-02-04,Notebook,Office Supplies,North,8126.0,8
+ORD-00757,2024-06-13,Notebook,Office Supplies,North,4052.19,6
+ORD-00758,2024-02-23,Table,Furniture,North,12963.86,3
+ORD-00759,2024-06-10,Desk,Furniture,East,44532.08,7
+ORD-00760,2024-06-26,Printer Paper,Office Supplies,Central,1985.81,4
+ORD-00761,2024-08-17,Headphones,Technology,South,80025.91,4
+ORD-00762,2024-02-20,Mug,Home & Kitchen,North,10143.13,5
+ORD-00763,2025-06-22,Mug,Home & Kitchen,East,24244.68,8
+ORD-00764,2024-10-21,Mug,Home & Kitchen,South,10272.73,3
+ORD-00765,2025-03-04,Table,Furniture,South,52775.37,3
+ORD-00766,2025-01-13,Bottle,Home & Kitchen,South,1451.69,1
+ORD-00767,2025-01-27,Lamp,Home & Kitchen,East,1796.92,2
+ORD-00768,2025-09-12,Headphones,Technology,South,56985.99,5
+ORD-00769,2025-07-26,Webcam,Technology,South,18510.72,3
+ORD-00770,2024-04-01,Stapler,Office Supplies,East,3525.24,3
+ORD-00771,2025-01-04,Lamp,Home & Kitchen,South,5821.18,5
+ORD-00772,2024-11-19,Storage Box,Home & Kitchen,East,2095.03,8
+ORD-00773,2024-06-16,Mug,Home & Kitchen,Central,2624.34,2
+ORD-00774,2025-05-11,Mug,Home & Kitchen,East,836.33,2
+ORD-00775,2024-07-03,Bookshelf,Furniture,West,70059.31,4
+ORD-00776,2024-03-19,Table,Furniture,West,2687.91,2
+ORD-00777,2025-01-17,Monitor,Technology,East,3653.74,3
+ORD-00778,2025-08-31,Monitor,Technology,Central,14642.1,1
+ORD-00779,2024-05-12,Office Chair,Furniture,West,9248.24,5
+ORD-00780,2024-04-04,Lamp,Home & Kitchen,South,509.22,3
+ORD-00781,2024-06-15,Mug,Home & Kitchen,West,5575.29,5
+ORD-00782,2024-11-13,Bookshelf,Furniture,West,22812.63,2
+ORD-00783,2024-10-01,Bottle,Home & Kitchen,North,12790.26,7
+ORD-00784,2025-06-09,Stapler,Office Supplies,Central,4478.3,4
+ORD-00785,2024-03-26,Stapler,Office Supplies,East,2719.19,7
+ORD-00786,2024-09-11,Lamp,Home & Kitchen,West,1836.22,1
+ORD-00787,2024-04-06,Lamp,Home & Kitchen,West,2924.28,6
+ORD-00788,2024-07-02,Table,Furniture,West,15892.52,1
+ORD-00789,2025-11-17,Lamp,Home & Kitchen,Central,5163.42,6
+ORD-00790,2024-09-22,Mouse,Technology,West,725.13,1
+ORD-00791,2025-11-04,Lamp,Home & Kitchen,North,20077.31,6
+ORD-00792,2024-05-08,Office Chair,Furniture,South,4686.55,4
+ORD-00793,2025-05-07,Desk,Furniture,West,109025.27,7
+ORD-00794,2024-05-31,Mug,Home & Kitchen,West,1613.9,1
+ORD-00795,2025-04-27,Mouse,Technology,North,19634.57,4
+ORD-00796,2024-04-15,Mug,Home & Kitchen,West,8709.07,8
+ORD-00797,2025-02-13,Mug,Home & Kitchen,North,4695.56,4
+ORD-00798,2024-10-01,Mug,Home & Kitchen,North,5832.86,2
+ORD-00799,2024-06-14,Pen Set,Office Supplies,East,2358.84,8
+ORD-00800,2025-09-08,Storage Box,Home & Kitchen,East,16500.35,5
